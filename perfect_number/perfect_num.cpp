@@ -1,3 +1,5 @@
+//Perfect number: Sum of factors is equal to the number itself
+//Example: 28 (Factors: 1+2+4+7+14)
 #include<iostream>
 using namespace std;
 
