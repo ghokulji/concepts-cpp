@@ -1,3 +1,6 @@
+//Armstrong number: Sum of cube of digitsis equal to the number itself.
+//Example: 153 = 1^3 + 2^3 + 3^3
+
 #include<iostream>
 #include<math.h>
 using namespace std;
